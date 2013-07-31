@@ -80,7 +80,6 @@ define(function (require, exports, module) {
         });
         
         afterLast(function () {
-            initCodeHintTest    = null;
             testWindow          = null;
             CodeHintManager     = null;
             EditorManager       = null;
